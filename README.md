@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fahad abdihakim</h1>
-<h3 align="center">A passionate frontend developer and web designer from Somalia</h3>
+<h3 align="center">A passionate frontend developer and web designer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=catiiqi&label=Profile%20views&color=0e75b6&style=flat" alt="catiiqi" /> </p>
 

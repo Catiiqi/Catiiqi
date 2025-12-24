@@ -13,7 +13,7 @@
       <td style="padding: 15px; text-align: center; font-weight: bold;">🔭 I’m currently working on</td>
       <td style="padding: 15px; text-align: center;">
         <a href="https://www.figma.com/proto/UMZSPBYbffU1WELcZexTbW/HCI---Sunrise-Mocha?node-id=78-2&starting-point-node-id=78%3A2&t=LTWITpqLEtoPE1p2-1" target="_blank" style="color: #58a6ff;">
-          Mobile app design for Coffee
+          property managemnt system for dugaal company
         </a>
       </td>
     </tr>
